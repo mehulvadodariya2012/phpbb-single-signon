@@ -1,4 +1,4 @@
-##  Single SignOn Class for PHP Frameworks 
+##  PHPbb Single SignOn Class for PHP Frameworks 
 
 This library is developed to perform single sign on operation from Main website to PHPbb Forum.
 
